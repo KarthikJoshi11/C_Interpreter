@@ -90,6 +90,3 @@ This project is unlicensed—use it freely for educational or personal purposes.
 
 ---
 
-
-# C_Interpreter
-# C_Interpreter
